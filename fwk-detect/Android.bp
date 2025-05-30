@@ -1,3 +1,5 @@
+soong_namespace {
+}
 cc_library_shared {
     name: "libqti_vndfwk_detect_system",
     srcs: ["vndfwk-detect.c"],
